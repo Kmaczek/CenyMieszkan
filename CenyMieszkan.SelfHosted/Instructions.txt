@@ -1,0 +1,3 @@
+﻿Install service:
+1. D:\Proj\CenyMieszkan\CenyMieszkan.SelfHosted\bin\Debug
+2. Open PS -> .\CenyMieszkan.SelfHosted install or help
